@@ -63,6 +63,6 @@ public class ArrayExample{
 
 
 ## RESULT:
-Thus, the Java program Thus the java program to read 5 values and display the all 5 values from array using single dimensional  was executed successfully.
+Thus, the Java program Thus the java program to read 3 values and display the all 3 values from array using single dimensional  was executed successfully.
 
 
