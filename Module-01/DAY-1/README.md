@@ -29,12 +29,20 @@ RegisterNumber: 212222100007
 ## Sourcecode.java:
 
 ```
-class Student
-{
+class Student {
     String name;
     String address;
-    int rollno;
 }
+
+public class Main {
+    public static void main(String[] args) {
+        Student obj = new Student();        
+        obj.name = "John";
+        obj.address = "Chennai";
+        System.out.println(obj.name + " " + obj.address);
+    }
+}
+
 ```
 
 
