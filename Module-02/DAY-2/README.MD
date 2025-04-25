@@ -58,9 +58,8 @@ public class Main{
 ## OUTPUT:
 ```
 Expected        	Got 	
-	17              17
-
-	```
+17                      17
+```
 
 
 ## RESULT:
