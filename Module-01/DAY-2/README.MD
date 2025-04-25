@@ -58,8 +58,12 @@ public class Demo {
 
 
 ## OUTPUT:
-
-
+```
+Input	        Expected Output
+0	            Given number is Zero
+12	           12 is Non-Zero
+-32	         -32 is Non-Zero
+```
 
 ## RESULT:
 Thus, the Java program to get values of variables 'a' and 'b' and then check if both the conditions 'a < 50' and 'a < b' are true is created successfully.
