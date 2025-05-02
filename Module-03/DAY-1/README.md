@@ -1,5 +1,5 @@
 # Ex.No:3(A)  STRING AND ITS OPERATIONS IN JAVA
-## AIM:
+## AIM::
 To create a java program to read input and print length of the string in java.
 
 ## ALGORITHM :
