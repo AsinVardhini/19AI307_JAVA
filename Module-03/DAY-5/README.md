@@ -5,13 +5,21 @@ To write a Java program that creates a StringBuilder object and “sb” is poin
 
 ## ALGORITHM :
 1.Initialize a Scanner object to take user input.
+
 2.Read a line of text from the user and store it in variable str1.
+
 3.Create a StringBuilder object sb and initialize it with str1.
+
 4.Calculate the length of the string using sb.length().
+
 5.Display the string length.
+
 6.Calculate the capacity using the formula: sb.length() + 16.
+
 7.Display the calculated capacity.
+
 8.Close the Scanner.
+
 
 
 
